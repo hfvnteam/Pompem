@@ -1,8 +1,6 @@
 # Pompem - Exploit and Vulnerability Finder
 
-Pompem is an open source tool, designed to automate the search for Exploits and Vulnerability in the most important databases.
-Developed in Python, has a system of advanced search, that help the work of pentesters and ethical hackers.
-In the current version, it performs searches in PacketStorm security, CXSecurity, ZeroDay, Vulners, National Vulnerability Database, WPScan Vulnerability Database ...
+Pompem là một công cụ mã nguồn mở, được thiết kế để tự động hóa việc tìm kiếm cho Khai thác và dễ bị tổn thương trong cơ sở dữ liệu quan trọng nhất. Được phát triển trong Python, có một hệ thống tìm kiếm nâng cao, giúp công việc của pentesters và hacker. Trong phiên bản hiện tại, nó thực hiện tìm kiếm trong PacketStorm , CXSecurity, ZeroDay, Vulners, Cơ sở dữ liệu quốc gia dễ bị tổn thương, WPScan Cơ sở dữ liệu dễ bị tổn thương ...
 
 ## Screenshots
 ![](http://i.imgur.com/lhBRLhl.png)
